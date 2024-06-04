@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pnpweb/static/css/main.0cfbd7c3.css",
+    "main.js": "/pnpweb/static/js/main.64b4a07f.js",
+    "static/js/453.5d49f35d.chunk.js": "/pnpweb/static/js/453.5d49f35d.chunk.js",
+    "static/media/logo.svg": "/pnpweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pnpweb/index.html",
+    "main.0cfbd7c3.css.map": "/pnpweb/static/css/main.0cfbd7c3.css.map",
+    "main.64b4a07f.js.map": "/pnpweb/static/js/main.64b4a07f.js.map",
+    "453.5d49f35d.chunk.js.map": "/pnpweb/static/js/453.5d49f35d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfbd7c3.css",
+    "static/js/main.64b4a07f.js"
+  ]
+}
